@@ -17,7 +17,7 @@
 
 | ANN                        | CNN                       |
 | -------------------------- | ------------------------- |
-| <img src="https://github.com/zhaoshengEE/Digital_Modulation_Classification/blob/main/img/ANN_Model.png" width="256" /> | <img src="https://github.com/zhaoshengEE/Digital_Modulation_Classification/blob/main/img/CNN_Model.png" width="256" /> |
+| ![ANN_Model.png](img/ANN_Model.png) | ![CNN_Model.png](img/CNN_Model.png) |
 
 ## Data in this project
 
