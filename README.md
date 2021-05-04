@@ -17,7 +17,7 @@
 
 | ANN                        | CNN                       |
 | -------------------------- | ------------------------- |
-| ![ANN_Model.png](img/ANN_Model.png) | ![CNN_Model.png](img/CNN_Model.png) |
+| <img src="https://github.com/zhaoshengEE/Digital_Modulation_Classification/blob/main/img/ANN_Model.png" width="256" /> | <img src="https://github.com/zhaoshengEE/Digital_Modulation_Classification/blob/main/img/CNN_Model.png" width="256" /> |
 
 ## Data in this project
 
@@ -30,13 +30,15 @@ The original dataset in this project is publicly available on the [DeepSig RF Da
 
 ### Comparison between ANN and CNN
 
-![ANN_vs_CNN_result.png](img/ANN_vs_CNN_result.png)
+<img src="https://github.com/zhaoshengEE/Digital_Modulation_Classification/blob/main/img/ANN_vs_CNN_result.png" width="650" />
+
+&nbsp;
 
 ### Comparison between ANN and CNN with PCA
 
 | ANN                   | CNN          |
 | -------------------------- | ------------------------- |
-| ![ANN_using_PCA_result.png](img/ANN_using_PCA_result.png) | ![CNN_using_PCA_result.png](img/CNN_using_PCA_result.png) |
+| <img src="https://github.com/zhaoshengEE/Digital_Modulation_Classification/blob/main/img/ANN_using_PCA_result.png" width="1024" /> | <img src="https://github.com/zhaoshengEE/Digital_Modulation_Classification/blob/main/img/CNN_using_PCA_result.png" width="1024" /> |
 
 ## Dependencies for this project
 
