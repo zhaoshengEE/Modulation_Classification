@@ -8,7 +8,7 @@
 - [Files in this repo](#Files-in-this-repo)
 - [Results](#Results)
 - [Dependencies for this project](#Dependencies-for-this-project)
-- [Download the code](#Download-the-code)
+- [Running the code](#Running-the-code)
 
 ## Description
 
@@ -65,17 +65,16 @@ numpy  matplotlib.pyplot  pickle  sklearn  random  tensorflow.keras  seaborn  ti
 
 Please make sure you have all the modules installed before running the code. For installing these modules, one can use command `pip install` or `conda install`
 
-## Download the code
+## Running the code
 
 1. [Click here](https://opendata.deepsig.io/datasets/2016.10/RML2016.10a.tar.bz2?__hstc=24938661.1c9f367bab527ec310ee0e32f379e4f2.1613644327279.1617502421902.1620095214064.6&__hssc=24938661.1.1620095214064&__hsfp=2651515268) to download the dataset for this project. It may require contact verification before downloading the dataset
 
 2. Extract the dataset from the zipped folder into a folder named `data`
 
 3. Download this repository to your local machine
-记得要改链接
 
 ```bash
-git clone https://github.com/zhaoshengEE/Digital_Modulation_Classification.git
+git clone https://github.com/zhaoshengEE/Modulation_Classification.git
 ```
 
 4. Relocate the `data` folder into the repository
