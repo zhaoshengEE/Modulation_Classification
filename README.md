@@ -23,7 +23,7 @@ Conducting modulation classification on the RF signals, this work compares the p
 
 ## Data in this project
 
-The original dataset in this project is publicly available on the [DeepSig RF Datasets For Machine Learning](https://www.deepsig.ai/datasets). The dataset is called RADIOML 2016.10A and is generously offered by _DeepSig Inc._
+The original dataset in this project is publicly available on the [DeepSig RF Datasets For Machine Learning](https://www.deepsig.ai/datasets). The data set is called RADIOML 2016.10A and is generously offered by _DeepSig Inc._
 
 ## Files in this repo
 
@@ -33,9 +33,9 @@ This GitHub repo contains the following folders or files
 
 + `model` folder contains the all the trained ANN and CNN models used in this project
 
-+ `ANN_vs_CNN.ipynb` is the code for comparing the performance of ANN and CNN on classifying the modulation schemes of the RF signals in dataset
++ `ANN_vs_CNN.ipynb` is the code for comparing the performance of ANN and CNN on classifying the modulation schemes of the RF signals in data set
 
-+ `ANN_using_PCA.ipynb` and `CNN_using_PCA.ipynb` are the code for applying PCA on the original dataset and observing the performance of ANN and CNN versus different values of dimension reduction 
++ `ANN_using_PCA.ipynb` and `CNN_using_PCA.ipynb` are the code for applying PCA on the original data set and observing the performance of ANN and CNN versus different values of dimension reduction 
 
 + `ANN.ipynb` and `CNN.ipynb` are the prototype of ANN and CNN models at the beginning stage of this project
 
@@ -60,14 +60,14 @@ This GitHub repo contains the following folders or files
 This project requires the following python modules:
 
 ```python
-numpy	matplotlib.pyplot	pickle	sklearn		random		tensorflow.keras	seaborn		time
+numpy	 matplotlib.pyplot	 pickle	 sklearn  random  tensorflow.keras  seaborn  time
 ```
 
 Please make sure you have all the modules installed before running the code. For installing these modules, one can use command `pip install` or `conda install`
 
 ## Download the code
 
-1. [Click here](https://opendata.deepsig.io/datasets/2016.10/RML2016.10a.tar.bz2?__hstc=24938661.1c9f367bab527ec310ee0e32f379e4f2.1613644327279.1617502421902.1620095214064.6&__hssc=24938661.1.1620095214064&__hsfp=2651515268) to download the dataset for this project
+1. [Click here](https://opendata.deepsig.io/datasets/2016.10/RML2016.10a.tar.bz2?__hstc=24938661.1c9f367bab527ec310ee0e32f379e4f2.1613644327279.1617502421902.1620095214064.6&__hssc=24938661.1.1620095214064&__hsfp=2651515268) to download the dataset for this project. It may require contact verification before downloading the data set
 
 2. Extract the dataset from the zipped folder into a folder named `data`
 
