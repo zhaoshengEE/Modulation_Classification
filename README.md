@@ -15,12 +15,13 @@
 
 ## Model structure
 
-| ANN                   | CNN          |
+| ANN                   | CNN        |
 | -------------------------- | ------------------------- |
 | ![ANN_Model.png](img/ANN_Model.png) | ![CNN_Model.png](img/CNN_Model.png) |
 
 ## Data in this project
 
+The original dataset in this project is publicly available on the [DeepSig RF Datasets For Machine Learning](https://www.deepsig.ai/datasets).
 
 ## Files in this repo
 
