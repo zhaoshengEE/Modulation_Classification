@@ -31,7 +31,7 @@ This GitHub repo contains the following folders or files
 
 + `img` folder contains the images of the training results, neural network structures, and test results
 
-+ `model` folder contains the all the trained ANN and CNN models used in this project
++ `model` folder contains all the trained ANN and CNN models used in this project
 
 + `ANN_vs_CNN.ipynb` is the code for comparing the performance of ANN and CNN on classifying the modulation schemes of the RF signals in dataset
 
