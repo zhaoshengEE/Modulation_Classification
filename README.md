@@ -15,7 +15,7 @@
 
 ## Model structure
 
-| ANN                   | CNN        |
+| ANN                        | CNN                       |
 | -------------------------- | ------------------------- |
 | ![ANN_Model.png](img/ANN_Model.png) | ![CNN_Model.png](img/CNN_Model.png) |
 
