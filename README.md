@@ -16,7 +16,7 @@
 ## Model structure
 
 | ANN                   | CNN          |
-| --------------------- | --------------------- |
+| -------------------------- | ------------------------- |
 | ![ANN_Model.png](img/ANN_Model.png) | ![CNN_Model.png](img/CNN_Model.png) |
 
 ## Data in this project
@@ -34,7 +34,7 @@
 ### Comparison between ANN and CNN with PCA
 
 | ANN                   | CNN          |
-| --------------------- | --------------------- |
+| -------------------------- | ------------------------- |
 | ![ANN_using_PCA_result.png](img/ANN_using_PCA_result.png) | ![CNN_using_PCA_result.png](img/CNN_using_PCA_result.png) |
 
 ## Dependencies for this project
@@ -43,7 +43,7 @@
 ## Download the code
 
 One can download all the code files in this repository by cloning this repo
-
+记得要改链接
 ```bash
 git clone https://github.com/zhaoshengEE/Digital_Modulation_Classification.git
 ```
